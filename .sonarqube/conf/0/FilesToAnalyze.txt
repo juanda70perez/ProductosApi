@@ -1,0 +1,15 @@
+﻿D:\Repos\ProductosApi\Program.cs
+D:\Repos\ProductosApi\Test.cs
+D:\Repos\ProductosApi\obj\Debug\net10.0\ProductosApi.GlobalUsings.g.cs
+D:\Repos\ProductosApi\obj\Debug\net10.0\.NETCoreApp,Version=v10.0.AssemblyAttributes.cs
+D:\Repos\ProductosApi\obj\Debug\net10.0\ProductosApi.AssemblyInfo.cs
+D:\Repos\ProductosApi\obj\Debug\net10.0\ProductosApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Repos\ProductosApi\appsettings.Development.json
+D:\Repos\ProductosApi\appsettings.json
+D:\Repos\ProductosApi\.gitattributes
+D:\Repos\ProductosApi\.gitignore
+D:\Repos\ProductosApi\productos.db
+D:\Repos\ProductosApi\productos.db-shm
+D:\Repos\ProductosApi\productos.db-wal
+D:\Repos\ProductosApi\ProductosApi.http
+D:\Repos\ProductosApi\Properties\launchSettings.json
